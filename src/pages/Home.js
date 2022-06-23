@@ -14,7 +14,7 @@ function Home() {
                     <span className="d-none d-web-contents"> | </span>
                     <span className="d-mobile-block">Phone: +91-9265513234</span>
                 </p>
-                <p className="text-center">Address:- A-302, Shivansh green, Vastral-382418, Ahamedabad </p>
+                <p className="text-center">Address:- A-302, Shivansh green, Vastral-382418, Ahmedabad </p>
             </div>
             <hr />
             <div className="container">
