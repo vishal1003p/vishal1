@@ -39,7 +39,7 @@ function Home() {
                                         </div>
                                     </div>
                                     <div className="col-md-6">
-                                        <div classname="p-3">
+                                        <div classname="py-3">
                                             <p className="mb-0">PYTHON</p>
                                             <div className="progress">
                                                 <div className="progress-bar" role="progressbar" style={{ width: "80%" }}>80%</div>
