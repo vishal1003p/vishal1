@@ -24,7 +24,7 @@ function Home() {
                             <div className="card-body">
                                 <h5 className="card-title fw-bold pb-3">Skills</h5>
                                 <div className="row">
-                                    <div className="col-md-6">
+                                    <div className="col-md-6 pb-3">
                                         <div>
                                             <p className="mb-0">HTML</p>
                                             <div className="progress">
