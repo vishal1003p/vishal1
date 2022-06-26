@@ -38,14 +38,14 @@ function Home() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-md-6 pt-3">
+                                    <div className="col-md-6 pt-3 pb-3">
                                         <div>
                                             <p className="mb-0">PYTHON</p>
                                             <div className="progress">
                                                 <div className="progress-bar" role="progressbar" style={{ width: "80%" }}>80%</div>
                                             </div>
                                         </div>
-                                        <div className="pt-3 pb-3">
+                                        <div className="pt-3">
                                             <p className="mb-0">REACTJS</p>
                                             <div className="progress">
                                                 <div className="progress-bar" role="progressbar" style={{ width: "60%" }} >60%</div>
