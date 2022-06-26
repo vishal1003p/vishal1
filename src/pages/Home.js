@@ -31,14 +31,14 @@ function Home() {
                                                 <div className="progress-bar" role="progressbar" style={{ width: "85%" }}>85%</div>
                                             </div>
                                         </div>
-                                        <div className="pt-1">
+                                        <div className="pt-1 pb-1">
                                             <p className="mb-0">CSS</p>
                                             <div className="progress">
                                                 <div className="progress-bar" role="progressbar" style={{ width: "75%" }} >75%</div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-md-6 ">
+                                    <div className="col-md-6">
                                         <div>
                                             <p className="mb-0">PYTHON</p>
                                             <div className="progress">
