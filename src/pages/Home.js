@@ -46,7 +46,7 @@ function Home() {
                                             </div>
                                         </div>
                                         <div className="pt-3">
-                                            <p className="mb-0">REACTJS</p>
+                                            <p className="mb-1">REACTJS</p>
                                             <div className="progress">
                                                 <div className="progress-bar" role="progressbar" style={{ width: "60%" }} >60%</div>
                                             </div>
