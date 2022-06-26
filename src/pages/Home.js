@@ -10,7 +10,7 @@ function Home() {
                 <h4>(Software Engineer)</h4>
                 <p className="text-center border-bottom pb-3">Hey there, I am Vishal Prajapati.Currently pursuing B.Tech in Computer Engineering</p>
                 <p className="text-center">
-                    <span className="d-mobile-block">Email: vishalprajapati2239@gmail.com</span>
+                    <span className="d-mobile-block">Email:vishalprajapati2239@gmail.com</span>
                     <span className="d-none d-web-contents"> | </span>
                     <span className="d-mobile-block">Phone: +91-9265513234</span>
                 </p>
@@ -38,7 +38,7 @@ function Home() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-md-6 py-3">
+                                    <div className="col-md-6">
                                         <div>
                                             <p className="mb-0">PYTHON</p>
                                             <div className="progress">
