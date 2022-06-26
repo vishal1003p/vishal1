@@ -24,7 +24,7 @@ function Home() {
                             <div className="card-body">
                                 <h5 className="card-title fw-bold pb-3">Skills</h5>
                                 <div className="row">
-                                    <div className="col-md-6 pb-3">
+                                    <div className="col-md-6 ">
                                         <div>
                                             <p className="mb-0">HTML</p>
                                             <div className="progress">
@@ -38,9 +38,9 @@ function Home() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-md-6 py-3 pb-3">
+                                    <div className="col-md-6 ">
                                         <div>
-                                            <p className="mb-0">PYTHON</p>
+                                            <p className="mb-0 ">PYTHON</p>
                                             <div className="progress">
                                                 <div className="progress-bar" role="progressbar" style={{ width: "80%" }}>80%</div>
                                             </div>
